@@ -1,5 +1,5 @@
 
-## 🌐 Tecnology:
+## 🥶 Tecnology:
 
 
 # 💻 Tech Stack:

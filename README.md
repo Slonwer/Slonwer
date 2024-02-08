@@ -1,5 +1,5 @@
 
-## 🥶 Tecnology:
+##  Shell :
 
 
 # 💻 Tech Stack:
